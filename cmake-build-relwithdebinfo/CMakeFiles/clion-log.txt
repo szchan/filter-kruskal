@@ -1,0 +1,10 @@
+"/Users/szchan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=RelWithDebInfo "-DCMAKE_MAKE_PROGRAM=/Users/szchan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/szchan/CLionProjects/filter-kruskal -B /Users/szchan/CLionProjects/filter-kruskal/cmake-build-relwithdebinfo
+-- The CXX compiler identification is AppleClang 13.1.6.13160021
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/szchan/CLionProjects/filter-kruskal/cmake-build-relwithdebinfo
